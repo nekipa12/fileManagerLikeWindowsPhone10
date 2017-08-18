@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/contextMenuItemDelete"
+        android:title="Delete">
+
+    </item>
+    <item
+        android:id="@+id/contextMenuItemMoveTo"
+        android:title="Move to">
+
+    </item>
+    <item
+        android:id="@+id/contextMenuItemCopy"
+        android:title="Copy in">
+
+    </item>
+    <item
+        android:id="@+id/contextMenuItemRename"
+        android:title="Rename">
+
+    </item>
+    <item
+        android:id="@+id/contextMenuItemProperties"
+        android:title="Properties">
+
+    </item>
+</menu>

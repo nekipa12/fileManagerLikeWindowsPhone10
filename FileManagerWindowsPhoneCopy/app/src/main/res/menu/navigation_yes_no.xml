@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_newFolder"
+        android:icon="@drawable/folderr"
+        android:title="@string/title_newFolder" />
+
+    <item
+        android:id="@+id/navigation_accept"
+        android:icon="@drawable/yess"
+        android:title="@string/title_accept" />
+
+    <item
+        android:id="@+id/navigation_cancel"
+        android:icon="@drawable/no"
+        android:title="@string/title_cancel" />
+</menu>

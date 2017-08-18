@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_choose"
+        android:icon="@drawable/list_l"
+        android:title="@string/title_choose" />
+
+    <item
+        android:id="@+id/navigation_newFolder"
+        android:icon="@drawable/folderr"
+        android:title="@string/title_newFolder" />
+
+    <item
+        android:id="@+id/navigation_icons"
+        android:icon="@drawable/icons"
+        android:title="@string/title_icons" />
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/title_search" />
+
+</menu>

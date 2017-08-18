@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation2_choose_all"
+        android:icon="@drawable/list_l"
+        android:title="Choose all" />
+    <group
+        android:id="@+id/groups">
+        <item
+            android:id="@+id/navigation2_delete"
+            android:icon="@drawable/delete"
+            android:title="Delete" />
+        <item
+            android:id="@+id/navigation2_move_to"
+            android:icon="@drawable/folder_move_to"
+            android:title="Move to" />
+        <item
+            android:id="@+id/navigation2_copy_in"
+            android:icon="@drawable/copy"
+            android:title="Copy" />
+    </group>
+</menu>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Files Manager (WP10 copy)</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="sortBy">Sort by:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_copy_move">CopyMoveActivity</string>
+
+    <string name="title_choose">Choose</string>
+    <string name="title_newFolder">New folder</string>
+    <string name="title_icons">Icons</string>
+    <string name="title_search">Search</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_accept">Accept</string>
+    <string name="title_cancel">Cancel</string>
+</resources>

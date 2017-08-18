@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="Inner memory" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@android:drawable/stat_notify_sdcard"
+            android:title="SD-card" />
+    </group>
+
+</menu>
